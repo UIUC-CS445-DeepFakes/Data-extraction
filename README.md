@@ -5,17 +5,17 @@
 This repository contains the code for extracting the datasets from Google Drive. The original datasets were downloaded from Kaggle then uplaoded to Google Drive.
 There are three datasets in total; namely, CelebDF, UADFV, Human Faces Dataset.
 The CelebDF used in this projects is version 2. It contains 50.7k real and 50.7k fake images "split into ∼80% training, ∼10% validation, and ∼10% for testing."
-UADFV contains a collection of 1.4k real and 1.5k fake images generated from the University at Albany DeepFake Video.
+UADFV contains a collection of 1.5k real and 1.5k fake images generated from the University at Albany DeepFake Video.
 Human Faces contains approximatly 9.6k human faces. Around 5k human faces and 4.6k AI generated faces.
 
 ## Our Dataset
 
-Using these datasets our data contains the following distribution:
+Using these datasets our data contains 22,702 images with the following distribution:
 | DataSet | Training | Validation |   Test  |  Total  | 
 |---------|---------|-------------|---------| --------|
-|CelebDFV2| 3.5k Real & Fake| 750 Real & Fake| 750 Real & Fake| 10k |
-|UADFV| 1044 Real & 1044 Fake| Real & 1044 Fake  |Real & 1044 Fake   |Real & 1044 Fake  |
-|Human Faces| 70%| 15%|15%| 100%|
+|CelebDFV2| 3,500 Real & 3,500 Fake| 750 Real & 75 0Fake| 750 Real & 750 Fake| 10,000 |
+|UADFV| 1,068 Real & 1,044 Fake| 224 Real & 224 Fake  | 256 Real & 256 Fake   |3,072 |
+|Human Faces| 3,500 Real & 3,241 Fake| 750 Real & 694 Fake|750 Real & 695 Fake| 9,630|
 
 
 ## Dataset Sources
