@@ -13,7 +13,7 @@ Human Faces contains approximatly 9.6k human faces. Around 5k human faces and 4.
 Using these datasets our data contains 22,702 images with the following distribution:
 | DataSet | Training | Validation |   Test  |  Total  | 
 |---------|---------|-------------|---------| --------|
-|CelebDFV2| 3,500 Real & 3,500 Fake| 750 Real & 75 0Fake| 750 Real & 750 Fake| 10,000 |
+|CelebDFV2| 3,500 Real & 3,500 Fake| 750 Real & 750 Fake| 750 Real & 750 Fake| 10,000 |
 |UADFV| 1,068 Real & 1,044 Fake| 224 Real & 224 Fake  | 256 Real & 256 Fake   |3,072 |
 |Human Faces| 3,500 Real & 3,241 Fake| 750 Real & 694 Fake|750 Real & 695 Fake| 9,630|
 
